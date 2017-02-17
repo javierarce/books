@@ -1,0 +1,3 @@
+- [https://booksongraphicdesign.com](Books on Graphic Design)
+- [http://jasonsantamaria.com/reading](Jason Santamaria)
+- [http://frankchimero.com/favs/books](Frank Chimero)
