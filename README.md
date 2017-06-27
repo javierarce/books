@@ -1,4 +1,4 @@
-- [https://booksongraphicdesign.com](Books on Graphic Design)
-- [http://jasonsantamaria.com/reading](Jason Santamaria)
-- [http://frankchimero.com/favs/books](Frank Chimero)
-- [http://caseyagollan.com/#bibliography](Casey Gollan)
+- [Books on Graphic Design](https://booksongraphicdesign.com)
+- [Jason Santamaria](http://jasonsantamaria.com/reading)
+- [Frank Chimero](http://frankchimero.com/favs/books)
+- [Casey Gollan](http://caseyagollan.com/#bibliography)
